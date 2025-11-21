@@ -1,0 +1,38 @@
+{
+  "common": {
+    "login": "Login",
+    "logout": "Logout",
+    "dashboard": "Dashboard",
+    "welcome": "Welcome",
+    "save": "Save",
+    "cancel": "Cancel",
+    "delete": "Delete",
+    "edit": "Edit",
+    "add": "Add",
+    "search": "Search"
+  },
+  "auth": {
+    "username": "Username",
+    "password": "Password",
+    "loginTitle": "Chia Yi Steel MES",
+    "loginSubtitle": "Manufacturing Execution System",
+    "invalidCredentials": "Invalid credentials",
+    "loggingIn": "Logging in..."
+  },
+  "modules": {
+    "portal": "Portal",
+    "basicData": "Basic Data",
+    "personnel": "Personnel",
+    "productionSettings": "Production Settings",
+    "product": "Product",
+    "material": "Material",
+    "purchasing": "Purchasing",
+    "orderManagement": "Order Management",
+    "productionManagement": "Production Management",
+    "workReporting": "Work Reporting",
+    "mobile": "Mobile",
+    "inventory": "Inventory",
+    "quality": "Quality",
+    "reports": "Reports"
+  }
+}
